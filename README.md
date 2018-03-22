@@ -1,2 +1,2 @@
 # SensOcean
-Prgramme de sciences participative d'oceanographie physique
+Programme de sciences participative d'oceanographie physique créer par l'association Astrolabe Expeditions
